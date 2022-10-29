@@ -1,4 +1,4 @@
-package Package1;
+package Package2;
 
 public class SameName {
 }
